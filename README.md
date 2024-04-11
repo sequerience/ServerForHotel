@@ -1,0 +1,2 @@
+# ServerForHotel
+Сервер отеля
